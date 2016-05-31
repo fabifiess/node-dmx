@@ -1,0 +1,28 @@
+{
+  "name": "node-dmx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabifiess/node-dmx.git"
+  },
+  "keywords": [
+    "dmx",
+    "open",
+    "dmx",
+    "usb",
+    "dmx",
+    "usb",
+    "pro"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabifiess/node-dmx/issues"
+  },
+  "homepage": "https://github.com/fabifiess/node-dmx#readme"
+}
